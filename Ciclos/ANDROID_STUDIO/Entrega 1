@@ -1,0 +1,41 @@
+res/
+    values/
+        strings.xml (español, predeterminado)
+    values-en/
+        strings.xml (inglés)
+    values-fr/
+        strings.xml (francés)
+    values-de/
+        strings.xml (alemán)
+    layout/
+        activity_main.xml (diseño predeterminado)
+    layout-small/
+        activity_main.xml (diseño para pantallas pequeñas)
+    layout-large/
+        activity_main.xml (diseño para pantallas grandes)
+    layout-xlarge/
+        activity_main.xml (diseño para pantallas extra grandes)
+
+
+<resources>
+    <string name="app_name">Mi Aplicación</string>
+    <string name="welcome_message">¡Bienvenido al mundo de Android!</string>
+</resources>
+
+
+<resources>
+    <string name="app_name">My App</string>
+    <string name="welcome_message">Welcome to the world of Android!</string>
+</resources>
+
+
+<resources>
+    <string name="app_name">Mon Application</string>
+    <string name="welcome_message">Bienvenue dans le monde d'Android !</string>
+</resources>
+
+<resources>
+    <string name="app_name">Meine App</string>
+    <string name="welcome_message">Willkommen in der Welt von Android!</string>
+</resources>
+
